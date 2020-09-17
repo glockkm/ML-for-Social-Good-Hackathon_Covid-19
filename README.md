@@ -1,4 +1,4 @@
-# Predicting Mental Health for Early Intervention during a Pandemic using Census Survey Data
+# Predicting Mental Health during a Pandemic for Early Intervention using Census Survey Data
 
 
 ## Project Description
@@ -18,3 +18,4 @@ https://www.census.gov/data/experimental-data-products/household-pulse-survey.ht
 If we can predict anxiety or depression during a pandemic, we may be able to assign a higher risk value to an individual which may lead to early intervention. This could possibly help with prevention in regards to substance abuse, suicide and domestic violence. 
 
 
+## Project ongoing and in progress as of 9/17/2020...
