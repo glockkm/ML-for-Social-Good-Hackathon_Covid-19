@@ -11,7 +11,7 @@ https://townhall.com/tipsheet/micaelaburrow/2020/07/28/redfield-says-more-aboveb
 https://www.jwatch.org/fw116935/2020/08/13/covid-19-mental-health-crisis-pediatric-guidance-1918-flu?fbclid=IwAR06hJPKEPqLu--o67NsJpgKudHNBrtp-zuDxrcaRanC3njRk_f0q-FFKIk
 
 ## Problem Statement
-Can we predict anxiety or depression using survey responses from a survey filled out weekly for 123 weeks during a pandemic? I will look at a random forest model and a SVM model to see which outputs better results.
+Can we use machine learning to predict anxiety or depression using survey responses during a pandemic? I will use a random forest model and a SVM model and compare outputs.
 
 ## Data Source
 2020 Household Pulse Survey, U.S. Census Bureau. It's data collected from weekly surveys having questions ranging from employment status, spending, health status, job status, food availability, mental well being and more. I used weeks 7, 9 and 12 for my dataset.
