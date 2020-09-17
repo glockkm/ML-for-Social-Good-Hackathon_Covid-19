@@ -6,8 +6,7 @@ The U.S Census Bureau has been sending out weekly surveys to the U.S. population
 
 https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm?fbclid=IwAR3gszHmr6WIAJlTSniV_c-xOx3pXyYhSHcwtxZ3tC28xW4QgKi64qvAV2Q
 
-https://townhall.com/tipsheet/micaelaburrow/2020/07/28/redfield-says-more-abovebase-suicides-than-covid-deaths-n2573278?3015=&amp=true&__twitter_impression=true&
-fbclid=IwAR1V99LagHXOdwuCmbVV5uMZ0Q4cOJMp1J-i-yndFvrgMIZRi2Eb3Now7tI
+https://townhall.com/tipsheet/micaelaburrow/2020/07/28/redfield-says-more-abovebase-suicides-than-covid-deaths-n2573278?3015=&amp=true&__twitter_impression=true&fbclid=IwAR1V99LagHXOdwuCmbVV5uMZ0Q4cOJMp1J-i-yndFvrgMIZRi2Eb3Now7tI
 
 https://www.jwatch.org/fw116935/2020/08/13/covid-19-mental-health-crisis-pediatric-guidance-1918-flu?fbclid=IwAR06hJPKEPqLu--o67NsJpgKudHNBrtp-zuDxrcaRanC3njRk_f0q-FFKIk
 
